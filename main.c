@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "add.h"
+
 
 typedef struct node
 {
@@ -279,4 +281,5 @@ int main()
         }
     }
     return 0;
+
 }
